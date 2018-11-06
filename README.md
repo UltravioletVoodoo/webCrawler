@@ -6,11 +6,5 @@ simple webcrawler made in python. My Elec prof had a website that was plain text
     - Python 2.7
 
 ## Installation Instructions
-
-    ```
-    pip install BeautifulSoup
-    ```
-
-    ```
-    python WebCrawler1.0.py
-    ```
+```pip install BeautifulSoup```
+```python WebCrawler1.0.py```
